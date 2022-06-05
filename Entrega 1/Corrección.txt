@@ -1,0 +1,48 @@
+Hola, Lucas! ¿Cómo estás? Estuvimos revisando la entrega del primer desafio (formularios y listas) y nos gustaría decirte que es un muy buen trabajo el realizado 🥳, te recomiendo que revises los siguientes puntos en tu desafío:
+
+ 
+
+Por otro lado, te recomiendo que revises los siguientes enlaces donde vas a encontrar información sobre los temas vistos y next steps para avanzar hacia el dominio de HTML.
+
+ 
+
+☄️ Con respecto al ejercicio de listas anidadas, te dejo abajo la forma correcta de realizar el apartado de principales protocolos.
+
+    <ul>
+      <li>
+        Transmisión de ficheros:
+        <ul>
+          <li>FTP</li>
+        </ul>
+      </li>
+      <li>
+        Correo electrónico:
+        <ul>
+          <li>IMAP</li>
+          <li>POP</li>
+          <li>SMTP</li>
+        </ul>
+      </li>
+    </ul>
+Por otro lado, en el apartado de formas de conectarse, deberías colocar la etiqueta <dl> que debería contener a los 4 elementos de la lista descriptiva que colocaste.
+
+ 
+
+☄️ Cuando pongas nombres a tus id's, names o tus clases, es recomendable que utilices minúsculas. En caso de que sea mas de una palabra, te recomiendo hacer una separación por guiones medios o bajos, y sino tenes la opción de utilizar camelCase.
+
+ 
+
+☄️  En el ejercicio de formularios, estaría bueno que agregues correctamente una vinculación entre los inputs y sus labels que no esten bien vinculados. Recordá que esto sucede cuando el  valor del atributo "for" de los labels coincide exactamente con el valor del atributo "id" de los inputs.
+
+ 
+
+ 
+
+
+☄️ https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code-es - Indentación automática del código
+☄️ https://www.w3schools.com/TAGS/default.ASP
+☄️ https://www.youtube.com/watch?v=-xiXI7WT2ik&ab_channel=CodeRange
+☄️ https://medium.com/@sthefany/qu%C3%A9-es-la-indentaci%C3%B3n-c9471f3ae84f
+
+
+Cualquier cosa, avisame y si hace falta te damos una mano! 
